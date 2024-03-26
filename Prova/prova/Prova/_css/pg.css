@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+*{font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+  .buttom{
+   color:  #4CAF4F;}
+nav{
+    background-color: #F5F7FA;    
+    margin-bottom: 20px;
+}
+nav a{
+    color: #18191F;
+
+}
+.logogo{
+    width: 160px;
+    }
+    .h1verde{
+        color: #4CAF4F;
+    }
+    .primeira{
+        
+       padding:  96px, 144px, 96px, 144px;
+       background-color: #F5F7FA;
+    }
+
+    .segunda{
+        margin-top: 50px;
+        padding-top: 50px
+    }
+    .card-img-top {
+        width: 65px; /* Defina a largura desejada */
+        height: 56px; /* Mantenha a proporção da altura */
+      }
+      .card-text{
+        size: 14px;
+      }
+        h5{
+            size: 28px;
+            color: #4D4D4D;
+        
+        }
+   
+        
+      p{
+    color: #717171;
+}
+    
+    .card{
+        width: 18rem;}
+
+
+        .quarta{
+            padding: 0px, 144px, 0px, 144px;
+
+        }
+
+
+      .frame{
+        width: 442px;
+        height: 433px;
+        padding: 52px 0.47px 52.01px 0px;
+        gap: 0px;
+        opacity: 0px;
+
+      }
+      .terceira{
+        padding-top: 50px
+          }
+      .quarta{
+        padding-top: 50px;    
+
+      }
+
+      
+
+      .how{
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
+
+      .quinta{
+        padding-top: 50px; 
+        background-color: #F5F7FA;   
+
+      }
+      .business{
+        color: #4CAF4F;
+      }
+
+      .icon-helping{
+        color: #4CAF4F;
+      }
+      .sexta{
+        padding-top: 50px;    
+
+      }
+      .setima{
+        padding-top: 50px;    
+
+      }
+      .oitava{
+        padding-top: 50px;    
+
+      }
